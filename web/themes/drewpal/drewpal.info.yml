@@ -3,3 +3,7 @@ type: theme
 description: "A custom Drupal 9 theme by Drew"
 base theme: false
 core_version_requirement: ^8 || ^9
+regions:
+  header: Header
+  content: Main Content
+  footer: footer
